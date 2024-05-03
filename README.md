@@ -1,7 +1,7 @@
 Free time creation
 
 ### Alarm App
-This is a website that I work on during my free time to be more productive.
+This is a website that I work on during my free time to be more productive..
 
 # Screenshot
 Project screenshot here :
